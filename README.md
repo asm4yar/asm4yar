@@ -37,6 +37,31 @@ I mainly work with **FastAPI** and **Django**, and also use:
 
 I like projects where architecture, stability, and scalability really matter.
 
+### 🧪 Pet Projects
+
+#### 🤖 AI-powered Telegram Post Generator  
+AI-based service for generating posts for Telegram channels.  
+Built with **FastAPI**, **Celery**, **Redis**, and **Celery Beat** for asynchronous and scheduled task execution.
+
+🔗 https://github.com/asm4yar/aibot
+
+---
+
+#### 🖼️ Image Upload Service  
+A backend service for uploading and managing images, built with a **microservice architecture**.  
+Uses **Docker Compose** with **Nginx**, **PostgreSQL**, and **FastAPI**.
+
+🔗 https://github.com/asm4yar/server_images/tree/v2.0
+
+---
+
+#### 💬 Telegram Bot with ChatGPT Integration  
+Telegram bot integrated with ChatGPT for conversational AI features.  
+Built using **aiogram** and fully containerized with **Docker**.
+
+🔗 https://github.com/asm4yar/aiogram-telegram-bot
+
+
 ### 👨‍💻 Обо мне
 
 Я backend-разработчик.  
@@ -49,3 +74,28 @@ I like projects where architecture, stability, and scalability really matter.
 - взаимодействие и интеграцию с внешними API  
 
 Люблю проекты, где важны архитектура, стабильность и масштабируемость.
+
+
+### 🧪 Pet-проекты
+
+#### 🤖 AI-генератор постов для Telegram  
+Сервис для генерации постов для Telegram-каналов с использованием ИИ.  
+Реализован на **FastAPI**, **Celery**, **Redis** и **Celery Beat** с асинхронной и периодической обработкой задач.
+
+🔗 https://github.com/asm4yar/aibot
+
+---
+
+#### 🖼️ Сервис загрузки изображений  
+Backend-сервис для загрузки и управления изображениями, построенный на **микросервисной архитектуре**.  
+Используется **Docker Compose** с **Nginx**, **PostgreSQL** и **FastAPI**.
+
+🔗 https://github.com/asm4yar/server_images/tree/v2.0
+
+---
+
+#### 💬 Telegram-бот с интеграцией ChatGPT  
+Telegram-бот с подключением ChatGPT для реализации диалогового ИИ.  
+Написан с использованием **aiogram** и полностью контейнеризирован с помощью **Docker**.
+
+🔗 https://github.com/asm4yar/aiogram-telegram-bot
