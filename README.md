@@ -20,3 +20,32 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+# 🚀 Aleksandr Chroivanov | Python Backend Developer
+
+### 👨‍💻 About Me
+
+I’m a backend developer.  
+I enjoy building **parsers**, **bots**, and **Telegram bots**, automating workflows, and designing reliable backend systems.
+
+I mainly work with **FastAPI** and **Django**, and also use:
+- Selenium, curl, and requests for data scraping and processing  
+- asynchronous execution and background tasks  
+- Celery and Celery Beat for task queues and scheduled jobs  
+- integration and interaction with external APIs  
+
+I like projects where architecture, stability, and scalability really matter.
+
+### 👨‍💻 Обо мне
+
+Я backend-разработчик.  
+Мне нравится создавать **парсеры**, **ботов** и **Telegram-ботов**, автоматизировать процессы и выстраивать надёжную серверную логику.
+
+В работе активно использую **FastAPI** и **Django**, а также:
+- Selenium, curl, requests — для сбора и обработки данных  
+- асинхронное выполнение и фоновые задачи  
+- Celery и Celery Beat — для очередей и периодических задач  
+- взаимодействие и интеграцию с внешними API  
+
+Люблю проекты, где важны архитектура, стабильность и масштабируемость.
