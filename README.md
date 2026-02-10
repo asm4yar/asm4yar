@@ -99,3 +99,5 @@ Telegram-бот с подключением ChatGPT для реализации 
 Написан с использованием **aiogram** и полностью контейнеризирован с помощью **Docker**.
 
 🔗 https://github.com/asm4yar/aiogram-telegram-bot
+
+![ref](https://refpixel.asm4yar.ru/img)
