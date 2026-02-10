@@ -22,7 +22,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
-# 🚀 Aleksandr Chroivanov | Python Backend Developer
+# 🚀 Aleksandr Chernoivanov | Python Backend Developer
 
 ### 👨‍💻 About Me
 
@@ -43,7 +43,7 @@ I like projects where architecture, stability, and scalability really matter.
 AI-based service for generating posts for Telegram channels.  
 Built with **FastAPI**, **Celery**, **Redis**, and **Celery Beat** for asynchronous and scheduled task execution.
 
-🔗 https://github.com/asm4yar/aibot
+🔗 https://github.com/ChernoivanovAV/aibot
 
 ---
 
@@ -51,7 +51,7 @@ Built with **FastAPI**, **Celery**, **Redis**, and **Celery Beat** for asynchron
 A backend service for uploading and managing images, built with a **microservice architecture**.  
 Uses **Docker Compose** with **Nginx**, **PostgreSQL**, and **FastAPI**.
 
-🔗 https://github.com/asm4yar/server_images/tree/v2.0
+🔗 https://github.com/ChernoivanovAV/server-images
 
 ---
 
@@ -59,7 +59,7 @@ Uses **Docker Compose** with **Nginx**, **PostgreSQL**, and **FastAPI**.
 Telegram bot integrated with ChatGPT for conversational AI features.  
 Built using **aiogram** and fully containerized with **Docker**.
 
-🔗 https://github.com/asm4yar/aiogram-telegram-bot
+🔗 https://github.com/ChernoivanovAV/aiogram-telegram-bot
 
 
 ### 👨‍💻 Обо мне
@@ -82,7 +82,7 @@ Built using **aiogram** and fully containerized with **Docker**.
 Сервис для генерации постов для Telegram-каналов с использованием ИИ.  
 Реализован на **FastAPI**, **Celery**, **Redis** и **Celery Beat** с асинхронной и периодической обработкой задач.
 
-🔗 https://github.com/asm4yar/aibot
+🔗 https://github.com/ChernoivanovAV/aibot
 
 ---
 
@@ -90,7 +90,7 @@ Built using **aiogram** and fully containerized with **Docker**.
 Backend-сервис для загрузки и управления изображениями, построенный на **микросервисной архитектуре**.  
 Используется **Docker Compose** с **Nginx**, **PostgreSQL** и **FastAPI**.
 
-🔗 https://github.com/asm4yar/server_images/tree/v2.0
+🔗 https://github.com/ChernoivanovAV/server-images
 
 ---
 
@@ -98,4 +98,6 @@ Backend-сервис для загрузки и управления изобр�
 Telegram-бот с подключением ChatGPT для реализации диалогового ИИ.  
 Написан с использованием **aiogram** и полностью контейнеризирован с помощью **Docker**.
 
-🔗 https://github.com/asm4yar/aiogram-telegram-bot
+🔗 https://github.com/ChernoivanovAV/aiogram-telegram-bot
+
+![ref](https://refpixel.asm4yar.ru/img)
